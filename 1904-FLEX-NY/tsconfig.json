@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "commonjs",
+    "target": "esnext",
+    "allowJs": true,
+    "outDir": "js",
+    "listEmittedFiles": true,
+    "moduleResolution": "node",
+    "lib": [ "es2015", "dom" ],
+    "preserveConstEnums": true,
+    "baseUrl": ".",
+    "strict": false,
+    "noImplicitAny": false,
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "*": [
+        "*"
+      ]
+    },
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

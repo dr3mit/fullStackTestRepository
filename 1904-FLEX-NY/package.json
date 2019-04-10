@@ -1,0 +1,42 @@
+{
+  "name": "1904-FLEX-NY",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Class 1904-FLEX-NY's Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+    "test-watch": "make test-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullstackAcademy/1904-FLEX-NY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullstackAcademy/1904-FLEX-NY/issues"
+  },
+  "homepage": "https://github.com/FullstackAcademy/1904-FLEX-NY#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jest": "^22.4.1",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "jest": "^24.7.1",
+    "nodemon": "^1.18.10",
+    "prettier": "^1.16.4",
+    "ts-jest": "^24.0.1",
+    "ts-node": "^8.0.3",
+    "tslint": "^5.15.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.4.1"
+  }
+}
